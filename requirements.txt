@@ -1,0 +1,30 @@
+cfgv==3.4.0
+contourpy==1.2.0
+cycler==0.12.1
+distlib==0.3.8
+filelock==3.13.1
+fonttools==4.49.0
+graphepp==0.4
+identify==2.5.35
+iniconfig==2.0.0
+kiwisolver==1.4.5
+matplotlib==3.8.3
+nodeenv==1.8.0
+noisy_graph_states @ git+https://github.com/jwallnoefer/noisy_graph_states@8b76d70980b242cb3d3ebe898d090fc33b788c34
+numpy==1.26.4
+packaging==24.0
+pandas==2.2.1
+pillow==10.2.0
+platformdirs==4.2.0
+pluggy==1.4.0
+pre-commit==3.6.2
+pyparsing==3.1.2
+pytest==8.1.1
+python-dateutil==2.9.0.post0
+pytz==2024.1
+PyYAML==6.0.1
+seaborn==0.13.2
+six==1.16.0
+tzdata==2024.1
+virtualenv==20.25.1
+-e ./tools

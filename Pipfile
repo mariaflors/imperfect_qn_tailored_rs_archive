@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+graphepp = "0.4"
+matplotlib = "*"
+tools = {editable = true, path = "./tools"}
+noisy-graph-states = {ref = "0.1", git = "https://github.com/jwallnoefer/noisy_graph_states"}
+seaborn = "*"
+
+[dev-packages]
+pytest = "*"
+pre-commit = "*"
+
+[requires]
+python_version = "3.12"
