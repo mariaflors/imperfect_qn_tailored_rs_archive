@@ -6,7 +6,7 @@ This code corresponds to the scenarios and settings described in
 
 > Imperfect quantum networks with tailored resource states <br>
 > Maria Flors Mor-Ruiz, Julius Wallnöfer and Wolfgang Dür <br>
-    > Preprint: [arXiv:2403.19778 [quant-ph]](https://doi.org/10.48550/arXiv.2403.19778);
+> Published version: [Quantum 9, 1605 (2025)](https://doi.org/10.22331/q-2025-01-21-1605).
 
 
 ## Setting up the environment
